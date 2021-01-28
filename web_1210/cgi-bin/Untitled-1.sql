@@ -1,0 +1,1 @@
+SELECT * FROM `r3b`.`hoge` LIMIT 1000;
