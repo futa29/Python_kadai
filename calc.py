@@ -118,7 +118,7 @@ def riset():
 #最初の画面
 base = tk.Tk()
 base.geometry("420x500")
-base.title("電卓")
+base.title("電卓　　谷　風汰")
 label = tk.StringVar()
 label2 = tk.StringVar()
 input_label = tk.Label(base,textvariable=label,font=("MSゴシック", "20", "bold"))

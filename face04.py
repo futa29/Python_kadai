@@ -17,7 +17,7 @@ try:
         cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,255))
 
 
-    cv2.imshow('face99',img)
+    cv2.imshow('face99 Tani Futa',img)
 
     cv2.waitKey(0)
     cv2.destroyAllWindows()

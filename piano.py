@@ -36,7 +36,7 @@ def button_me8():
 
 base = tk.Tk()
 base.geometry("800x700")
-base.title("ピアノ")
+base.title("ピアノ 谷　風汰")
 buttonl = tk.Button(base,text="ド",width=8,height=10,command=button_me)
 buttonl.place(x=70, y=300)
 buttonl_ = tk.Button(base,text="ド＃",bg="black",fg="white",width=8,height=10,command=button_me_)

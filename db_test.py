@@ -16,7 +16,7 @@ def db_sample():
     cur= con.cursor()
      
     # クエリを実行する
-    sql = "insert into hoge values (3,'鈴木')"
+    sql = "select * from hoge"
     cur.execute(sql)
  
     # 実行結果をすべて取得する
